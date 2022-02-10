@@ -1,0 +1,14 @@
+#AsyncRAT - .vbs > .ps1 > .exe  version 1.0.7
+
+.vbs e11a2c3b101696772135972b5f9bafcb9e14cab6c9bf9dc83fd37e24a4289b05
+.ps1 6cb881de9d9d573bd5c68ab164b6f7a069df778815e8f9a14a4b934706a60062
+.ps1 f80d563bb87e4935bd7d8aaff3f92f9dd2da8ae72c901dbb5c574334e2fc2d8a
+
+http://91.241.19.49/CRYPS/F3dll.txt
+
+http://91.241.19.49/CRYP/F3runpe.txt
+
+http://pastie.org/p/6iYIqIc1DK0TiVrM1BKbwX/raw
+
+c2
+joelthomas.linkpc.net:5900
