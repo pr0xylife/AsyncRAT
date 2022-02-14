@@ -1,0 +1,14 @@
+#AsyncRAT - .vbs > .ps1 > .exe  version 1.0.7
+
+.vbs 33e0fcb502ca6dd48933ae4708beb6fc418eacfc0d864769334830b40763b8bc
+.ps1 6cb881de9d9d573bd5c68ab164b6f7a069df778815e8f9a14a4b934706a60062
+.ps1 f80d563bb87e4935bd7d8aaff3f92f9dd2da8ae72c901dbb5c574334e2fc2d8a
+
+http://91.241.19.49/CRYPS/F3dll.txt
+
+http://91.241.19.49/CRYP/F3runpe.txt
+
+http://pastie.org/p/32penvv5gEfHhdXBXNs52I/raw
+
+c2
+comav14.publicvm.com:7144
