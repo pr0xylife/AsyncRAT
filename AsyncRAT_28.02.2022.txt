@@ -1,0 +1,58 @@
+AsyncRAT 2022 | 28.02.2022 | .zip > .vbs > CobaltStrike |
+
+************************************************************************************************************
+
+.zip 2fe7b81253f7726822e0f6ff1a3bacea73ca2356ca4dcb460493586629961ad0
+.vbs 9a8d634c047c0accd94c7e0dbf7f7b6c5f4d9cbcd6bba48d51549bd1568febb4
+.cs 2fe7b81253f7726822e0f6ff1a3bacea73ca2356ca4dcb460493586629961ad0
+
+************************************************************************************************************
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Invoice_payment.js
+
+C:\Users\Admin\AppData\Roaming\cheomes.EXE
+
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\chrome.exe
+
+C:\Users\Admin\AppData\Local\Temp\IXP000.TMP\chrome.exe
+
+C:\Windows\System32\cmd.exe" /c schtasks /create /f /sc onlogon /rl highest /tn "chrome" /tr '"C:\Users\Admin\AppData\Roaming\chrome.exe"' & exit
+
+schtasks  /create /f /sc onlogon /rl highest /tn "chrome" /tr '"C:\Users\Admin\AppData\Roaming\chrome.exe"' 
+
+C:\Windows\system32\cmd.exe /c ""C:\Users\Admin\AppData\Local\Temp\tmp9AA7.tmp.bat""
+
+C:\Windows\SysWOW64\timeout.exe
+
+C:\Users\Admin\AppData\Roaming\chrome.exe
+
+cmd.exe" /c start /b powershell –ExecutionPolicy Bypass Start-Process -FilePath '"C:\Users\Admin\AppData\Local\Temp\guaodd.exe"' & exit
+
+powershell  –ExecutionPolicy Bypass Start-Process -FilePath '"C:\Users\Admin\AppData\Local\Temp\guaodd.exe"' 
+
+C:\Users\Admin\AppData\Local\Temp\guaodd.exe
+
+C:\Users\Admin\AppData\Local\Temp\guaodd.exe" 
+
+C:\Windows\SysWOW64\schtasks.exe "schtasks" /delete /f /tn "'chrome"'
+
+C:\Windows\system32\cmd.exe /c ""C:\Users\Admin\AppData\Local\Temp\tmp3D9E.tmp.bat""
+
+C:\Windows\SysWOW64\timeout.exe
+timeout  2 
+
+************************************************************************************************************
+
+Network:
+
+https://pastebin.com/raw/4wphEKhM
+
+c2
+
+nsysc.duckdns.org
+
+CobaltStrike
+
+http://52.15.81.204/mJRT    | guaodd.exe
+http://52.15.81.204/dot.gif | guaodd.exe
+http://52.15.81.204/dot.gif | guaodd.exe
