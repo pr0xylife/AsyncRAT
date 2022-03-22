@@ -1,0 +1,40 @@
+AsyncRAT 2022 | 22.03.2022 | Version 0.5.7B | .rtf > .exe > | 
+
+************************************************************************************************************
+
+.docx 9fb2bd7698aa4b176df19cec13630bbedb65972997ed0d243a84028c26daa17d
+.exe df6ee43d63f73f9a5c23fb87649ebe1cb1ded36423d2562f7b143454e3f063a2
+
+************************************************************************************************************
+
+Exec >>
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\court-sue-order.docx
+
+C:\Windows\splwow64.exe 12288
+
+C:\Program Files (x86)\Common Files\Microsoft Shared\EQUATION\EQNEDT32.EXE" -Embedding
+
+C:\Users\Admin\AppData\Roaming\RFQ.exe
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Add-MpPreference -ExclusionPath "C:\Users\Admin\AppData\Roaming\RFQ.exe
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Add-MpPreference -ExclusionPath "C:\Users\Admin\AppData\Roaming\EFDRElxokx.exe
+
+"C:\Windows\System32\schtasks.exe /Create /TN "Updates\EFDRElxokx" /XML "C:\Users\Admin\AppData\Local\Temp\tmpE9D2.tmp
+
+C:\Users\Admin\AppData\Roaming\RFQ.exe
+
+
+************************************************************************************************************
+
+Network | #OpenDIR
+
+http://34.221.57.122/
+http://34.221.57.122/ok
+http://34.221.57.122/rt.rtf
+http://34.221.57.122/putty.exe
+
+c2
+
+polymoly.info:4199
