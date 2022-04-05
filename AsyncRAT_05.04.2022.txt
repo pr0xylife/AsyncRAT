@@ -1,0 +1,42 @@
+AsyncRAT 2022 | 05.04.2022 | Venom RAT 5.0.4 | Botnet Venom Clients |
+
+************************************************************************************************************
+
+.url https://art92sh.com/1RSQOUBD08H.zip
+.zip C007CAB191CAFE73CEF9EAFD979E7D21C5F5D27CF674AEB0352FBA0DF26D5ABF
+.iso D92EEE201075B86DC292500855CDDC0B16767FDCE07DB05C3AD322504CFB5C89
+.exe 9ED42670A2CB07CF6A543F8347455E6AC5DA663F686B86A9C33D047839453F3D
+
+************************************************************************************************************
+
+Exec >>
+
+1RSQOUBD08H.exe
+
+RegAsm.exe
+
+cmd /c schtasks /create /sc minute /mo 1 /tn Nafnias /tr 'C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe' /f
+
+schtasks  /create /sc minute /mo 1 /tn Nafnias /tr 'C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe' /f
+
+cmd /c copy C:\Users\Admin\AppData\Local\Temp\1RSQOUBD08H.exe C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe
+
+C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe
+
+cmd /c schtasks /create /sc minute /mo 1 /tn Nafnias /tr 'C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe' /f
+
+schtasks  /create /sc minute /mo 1 /tn Nafnias /tr 'C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe' /f
+
+cmd /c copy C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe C:\Users\Admin\AppData\Roaming\rbfs\rbfs.exe
+
+************************************************************************************************************
+
+c2
+
+vernomqmonday.duckdns.org:5311
+hrjekd.duckdns.org:5311
+wsfgv.duckdns.org:5311
+msmonday21.duckdns.org:5311
+mcgarryrob9.duckdns.org:5311
